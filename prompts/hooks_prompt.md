@@ -4,7 +4,7 @@
 Generate scroll-stopping hooks for UGC advertisements that grab audience attention in the first 5 seconds.
 
 ## 🤖 Prompt Used
-Generate 10 high-converting UGC ad hooks for a skincare product called **Radiance Rush SerumSkincare Serum**.
+Generate 10 high-converting UGC ad hooks for a skincare product called **Radiance Rush Skincare Serum**.
 
 ### 🧴 Product Details
 - Helps reduce acne
