@@ -198,5 +198,4 @@ FUTURE_PE_02/
 ├── prompts/
 ├── outputs/
 ├── assets/
-├── figma-design/
 └── screenshots/
